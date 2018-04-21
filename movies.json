@@ -7,6 +7,7 @@
     { "title": "The Matrix", "releaseYear": "1999"},
     { "title": "Inception", "releaseYear": "2010"},
     { "title": "Interstellar", "releaseYear": "2014"},
+    { "title": "Test movie", "releaseYear": "2017"},
     { "title": "테스트", "releaseYear": "2018"}
   ]
 }
